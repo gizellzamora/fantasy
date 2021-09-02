@@ -1,0 +1,38 @@
+.name {
+	color: rosybrown;
+	margin: 10px;
+}
+
+.header {
+	text-align: center;
+}
+
+.location {
+	font-size: 20px;
+	margin: 10px;
+	color: grey;
+}
+
+.section-header {
+	color: rosybrown;
+	margin: 25px;
+	border-radius: 7px;
+	padding: 14px;
+	background: mistyrose;
+}
+
+.page {
+	background: lavenderblush
+}
+
+.type {
+	color: grey;
+}
+
+.bottom {
+	color: grey;
+}
+
+.line{
+	color: ghostwhite;
+}
